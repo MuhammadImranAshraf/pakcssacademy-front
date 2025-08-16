@@ -6,7 +6,7 @@ export default function Home() {
       <div className="text-center">
         <div className="mb-8">
           <Image
-            src="/assets/primary-logo.png"
+            src="/assets/primary-logo.jpg"
             alt="Charm Lace Logo"
             width={200}
             height={200}
