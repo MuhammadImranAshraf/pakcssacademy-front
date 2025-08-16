@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Charm Lace - Coming Soon",
-  description: "Welcome to Charm Lace - A beautiful project coming soon",
+  title: "Pak CSS - Coming Soon",
+  description: "Welcome to Pak CSS - A beautiful project coming soon",
 };
 
 export default function RootLayout({

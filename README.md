@@ -1,6 +1,6 @@
-# Charm Lace
+# Pakistan CSS Academy
 
-A beautiful landing page for the upcoming Charm Lace project.
+A beautiful landing page for the upcoming Pakistan CSS Academy project.
 
 ## Getting Started
 

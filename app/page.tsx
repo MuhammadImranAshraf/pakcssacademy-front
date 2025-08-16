@@ -6,8 +6,8 @@ export default function Home() {
       <div className="text-center">
         <div className="mb-8">
           <Image
-            src="/assets/primary-logo.jpg"
-            alt="Charm Lace Logo"
+            src="/assets/primary-logo.jpeg"
+            alt="Pak CSS Logo"
             width={200}
             height={200}
             className="mx-auto"
